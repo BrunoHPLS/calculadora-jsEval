@@ -52,3 +52,11 @@ body{
     background-color: #9E9E9E;
     border-radius: 15px;
 }
+
+.operation{
+    background-color: #FFB615;
+}
+
+.util{
+    background-color: #FF7119;
+}
